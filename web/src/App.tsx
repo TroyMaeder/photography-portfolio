@@ -1,5 +1,5 @@
 import React from 'react'
-import Rotate from './Rotate'
+import Rotate from './Components/Rotate/Rotate'
 import AppleImages from '../../web/src/assets/apples'
 
 import './App.scss'
