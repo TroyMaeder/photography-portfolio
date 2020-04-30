@@ -17,7 +17,7 @@ describe('Rotate', () => {
       map.wheel({ deltaY: 1 })
     })
 
-    expect(component.find('img').prop('alt')).toMatch('Apple 1')
+    expect(component.find('img').prop('alt')).toMatch('apple 1')
   })
 
   it('correctly adds a class', () => {
